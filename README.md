@@ -16,7 +16,12 @@ Captura de error al ingresar input vacio
 ![alt text](./assets/input_vacio.png)
 
 
+Captura GitHub
+![alt text](./assets/Github_evidence.png)
+
+
 código desarrolado:
 ![alt text](./assets/Capt_Code.png)
 
 
+Gracias por leer completamente el README
